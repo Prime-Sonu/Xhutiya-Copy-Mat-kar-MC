@@ -616,19 +616,19 @@
       "id": "WWE",
       "name": "WWE Live Stream",
       "type": "iframe",
-      "iframeSrc": "https://wwe-peacock-tv-1-sayan.vercel.app/"
+      "iframeSrc": "https://wwe-peacock-sayan.pages.dev/"
     },
     {
       "id": "FC2",
       "name": "Fancode Worldwide SD",
       "type": "iframe",
-      "iframeSrc": "https://fancode-worldwide-2-sayan.vercel.app/"
+      "iframeSrc": "https://fancode-worldwide-2-sayan.pages.dev/"
     },
     {
       "id": "FC1",
       "name": "Fancode Worldwide 4K",
       "type": "iframe",
-      "iframeSrc": "https://fancode-worldwide-1-sayan.vercel.app/"
+      "iframeSrc": "https://fancode-worldwide-1-sayan.pages.dev/"
     }
   ]
 }
