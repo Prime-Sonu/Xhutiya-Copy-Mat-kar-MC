@@ -176,8 +176,8 @@
     },
     {
       "id": "DD",
-      "name": "",
-      "type": "DD Sports",
+      "name": "DD Sports",
+      "type": "iframe",
       "iframeSrc": "https://tvwap.pages.dev/?id=204&name=jiohd"
     },
     {
